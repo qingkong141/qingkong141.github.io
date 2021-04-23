@@ -59,6 +59,7 @@ publish: false
     + 能检测出所有类型( "Boolean Number String Function Array Date RegExp Object Error Symbol" )
 
   + **总结**
+    + 参考自 jQuery toType 方法
     ```js
       (function () {
       let calss2type = {};
