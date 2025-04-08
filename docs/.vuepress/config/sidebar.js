@@ -30,5 +30,16 @@ module.exports = {
         }
       ]
     }
+  ],
+  '/instrument/': [
+    {
+      title: 'webpack',
+      children: [
+        {
+          title: 'webpack 将dist文件目录压缩成zip文件',
+          path: '/instrument/webpack/zip.md'
+        }
+      ]
+    }
   ]
 }
